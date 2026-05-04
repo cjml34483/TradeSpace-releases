@@ -1,0 +1,11 @@
+{
+    "version":  "v1.0.43",
+    "notes":  "Rebrand consolidation + release-pipeline hardening. Three things:",
+    "pub_date":  "2026-05-04T20:36:12Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDROUFcxZGQ0UW8vQUtpaXNsVndtaCtlSFdNZDRZZzdoaVZjckpXSkU0ZjR6QnFwUEkvcW9HK1FoOGhiVnBUMm9QeGppeGV1N0Zob21HSlNTdTdLREo0bXFkSGcwS1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3OTI2OTcxCWZpbGU6QVNBXzEuMC40M194NjQtc2V0dXAuZXhlClQ5LytFZHRoK3dURTNkMWNnS3pUR1NHbGNvME5mNmZvcDdBWXFDR1h6ZTJXRVpKQVdDVGZYTTc3VktUd0FDZGxzdWZzbjQ0Sk5JTDZrdXhKSnB2cEN3PT0K",
+                                             "url":  "https://github.com/cjml34483/ASA-releases/releases/download/v1.0.43/ASA_1.0.43_x64-setup.exe"
+                                         }
+                  }
+}
