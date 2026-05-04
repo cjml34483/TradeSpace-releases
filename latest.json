@@ -1,11 +1,11 @@
 {
-    "version":  "v1.0.43",
-    "notes":  "Rebrand consolidation + release-pipeline hardening. Three things:",
-    "pub_date":  "2026-05-04T20:36:12Z",
+    "version":  "v1.0.44",
+    "notes":  "Sidebar logo polish â€” second pass on the v1.0.43 changes after Chris saw the installed result. Four micro-fixes:",
+    "pub_date":  "2026-05-04T21:21:46Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDROUFcxZGQ0UW8vQUtpaXNsVndtaCtlSFdNZDRZZzdoaVZjckpXSkU0ZjR6QnFwUEkvcW9HK1FoOGhiVnBUMm9QeGppeGV1N0Zob21HSlNTdTdLREo0bXFkSGcwS1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3OTI2OTcxCWZpbGU6QVNBXzEuMC40M194NjQtc2V0dXAuZXhlClQ5LytFZHRoK3dURTNkMWNnS3pUR1NHbGNvME5mNmZvcDdBWXFDR1h6ZTJXRVpKQVdDVGZYTTc3VktUd0FDZGxzdWZzbjQ0Sk5JTDZrdXhKSnB2cEN3PT0K",
-                                             "url":  "https://github.com/cjml34483/ASA-releases/releases/download/v1.0.43/ASA_1.0.43_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDROUFcxZGQ0UWhmeHlIcXlkNmpmZk5PQjQ1YmpIcS9KckJHRW1BQmU0djh2aGZESUxhUWpSd3BaZVZUQ1d0ZXMrTk1EV1lDVkN3Q2RkamExUU5XWUhpei9adGxKcFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3OTI5NzA2CWZpbGU6QVNBXzEuMC40NF94NjQtc2V0dXAuZXhlCm1iVzFSREhEZDZ2V2dtUzBoVHdQZnFDVzd1NUR6Y1NMczZBT3hLZnVQRjhXT2pMaE5yV2c3Uk8xYWtmcXBrK3dXa2R4d2dlRm9YcENWRlNHMGNwN0J3PT0K",
+                                             "url":  "https://github.com/cjml34483/ASA-releases/releases/download/v1.0.44/ASA_1.0.44_x64-setup.exe"
                                          }
                   }
 }
