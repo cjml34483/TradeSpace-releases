@@ -1,11 +1,11 @@
 {
-    "version":  "v1.0.52",
-    "notes":  "Fix landing page favicon to match brand green (#37AA35) with SVG primary + ICO fallback; remove hardcoded waitlist counter",
-    "pub_date":  "2026-05-09T10:52:00Z",
+    "version":  "v1.0.53",
+    "notes":  "Pre-launch patch: marketing truth pass, historical MT5 import, stealth TOS gate, ops hygiene (health endpoint, Stripe DLQ, sleep notification, Sentry scrub)",
+    "pub_date":  "2026-05-10T23:52:11Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDROUFcxZGQ0UWtCQlAwakNuRCt6R1VqMExhSTVnTXZsZFJKVENwNGs2V3IwZEp1NkZOelRXekoxNVNYT1B6b2U2WGdjV2tSL3dRZlZKTTNXZ1EvVjJmSDVmdERoaHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MzIzOTE4CWZpbGU6QVNBIFRyYWRpbmcgU3lzdGVtcyBUZXJtaW5hbF8xLjAuNTJfeDY0LXNldHVwLmV4ZQppWFMyT0lubWFaTGdZRUFEN25COVNWZi9zL3VuN1FNUmo3NVFDd3l0OVhLclRveVprMUZ5eEpHblpTVE02K2I3OEtubjlWZ2NIQUFqa3h4WEMyV2tEdz09Cg==",
-                                             "url":  "https://github.com/cjml34483/ASA-releases/releases/download/v1.0.52/ASA.Trading.Systems.Terminal_1.0.52_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDROUFcxZGQ0UXU5T2RxM2JBRHlKbWNUYnY3cG5XZk9hakpmQXN0VDRGWVpxVEZjM2F4ZTRnT1RhYnZxMGhnbTJTTC9tbm9wbTgwcHVKUks5QlJKV2JGVzhJQmJWRVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NDU3MTMwCWZpbGU6QVNBIFRyYWRpbmcgU3lzdGVtcyBUZXJtaW5hbF8xLjAuNTNfeDY0LXNldHVwLmV4ZQpRRnM5enlWNW9ld1k5Zmg5VWJJQytaTW5vZnRpR0lSV0tBMGEzOG5BVEpEN1ArOEFQV3IrWlFyUk94c2gxV0JCQkpUcFJ2dVJBMEVudFNOOXZpVVhDUT09Cg==",
+                                             "url":  "https://github.com/cjml34483/ASA-releases/releases/download/v1.0.53/ASA.Trading.Systems.Terminal_1.0.53_x64-setup.exe"
                                          }
                   }
 }
