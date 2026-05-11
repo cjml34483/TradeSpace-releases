@@ -1,11 +1,11 @@
 {
-    "version":  "v1.0.53",
-    "notes":  "Pre-launch patch: marketing truth pass, historical MT5 import, stealth TOS gate, ops hygiene (health endpoint, Stripe DLQ, sleep notification, Sentry scrub)",
-    "pub_date":  "2026-05-10T23:52:11Z",
+    "version":  "v1.0.54",
+    "notes":  "Pre-launch sweep: legal pages, pricing, how-it-works, GDPR routes, security headers, rate limiting, MT5 error states, session expiry, password reset, email templates, trial expiry logic, VPS guide, admin panel, accessibility pass",
+    "pub_date":  "2026-05-11T01:21:40Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDROUFcxZGQ0UXU5T2RxM2JBRHlKbWNUYnY3cG5XZk9hakpmQXN0VDRGWVpxVEZjM2F4ZTRnT1RhYnZxMGhnbTJTTC9tbm9wbTgwcHVKUks5QlJKV2JGVzhJQmJWRVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NDU3MTMwCWZpbGU6QVNBIFRyYWRpbmcgU3lzdGVtcyBUZXJtaW5hbF8xLjAuNTNfeDY0LXNldHVwLmV4ZQpRRnM5enlWNW9ld1k5Zmg5VWJJQytaTW5vZnRpR0lSV0tBMGEzOG5BVEpEN1ArOEFQV3IrWlFyUk94c2gxV0JCQkpUcFJ2dVJBMEVudFNOOXZpVVhDUT09Cg==",
-                                             "url":  "https://github.com/cjml34483/ASA-releases/releases/download/v1.0.53/ASA.Trading.Systems.Terminal_1.0.53_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDROUFcxZGQ0UW9oMTlhcHV2Tkc4V1ZWamhEOHl6S0tWWm1yY3Y4cmNacTNSSlV4NGhRMWIyT0FsSWhFV0RCcEdZb1J2WFg3c0RsU1pXVDJkaHdKamlGTWcrUTZ4VEFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NDYyNDk5CWZpbGU6QVNBIFRyYWRpbmcgU3lzdGVtcyBUZXJtaW5hbF8xLjAuNTRfeDY0LXNldHVwLmV4ZQpDSlkvM3g1cE54SzFMcmcxbksxTk8xbVFlZjVTRm5LTU50eURXZjQzVHhiWVBhRTNEb0dFaHBOcWxTcDFZRnhOTnZlanltNi9ZZFFmMHVnQlk1dUxCdz09Cg==",
+                                             "url":  "https://github.com/cjml34483/ASA-releases/releases/download/v1.0.54/ASA.Trading.Systems.Terminal_1.0.54_x64-setup.exe"
                                          }
                   }
 }
