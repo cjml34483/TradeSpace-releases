@@ -1,11 +1,11 @@
 {
-    "version":  "v1.0.54",
-    "notes":  "Pre-launch sweep: legal pages, pricing, how-it-works, GDPR routes, security headers, rate limiting, MT5 error states, session expiry, password reset, email templates, trial expiry logic, VPS guide, admin panel, accessibility pass. Built on top of v1.0.53.",
-    "pub_date":  "2026-05-11T01:46:14Z",
+    "version":  "v1.0.55",
+    "notes":  "Stripe subscription flow, PostHog telemetry (opt-in), install attribution, Windows auto-start, system tray alerts, CSV export, SQLite auto-backup, tier enforcement",
+    "pub_date":  "2026-05-11T11:34:32Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDROUFcxZGQ0UXBBdEIvLy9BdDdWQlNMak8waDlZSkFIWnRCejNKTm1RMVhIWnBOMkt2MU9KTjAySDJ4TkNKcFcwOWtadithallXc2lKMnZwQStNTnRWVXFNK05BWHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NDYzOTczCWZpbGU6QVNBIFRyYWRpbmcgU3lzdGVtcyBUZXJtaW5hbF8xLjAuNTRfeDY0LXNldHVwLmV4ZQpVQW5BN2p3RXE3dnlnTlhlRDVGcXlmVERnYnFnVmsrU3hWZUVnZmdDTGR0elFNN1B1YlM2RFB2c0hNdWJVK2Q5bHBINzU5dWtJbkE5SzljaTN5SkRCUT09Cg==",
-                                             "url":  "https://github.com/cjml34483/ASA-releases/releases/download/v1.0.54/ASA.Trading.Systems.Terminal_1.0.54_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDROUFcxZGQ0UXNtZzV3RnBEcVJEK0pRaHNwSGx0Z2t6NVJCVm1Zc1IzUkYwN2h3aWRGeVZRa2FVSjZ4QkltSEJRaUlGMzByYkd5Rk8zQnpyQnU0WDZmZ2pGUVI0ZEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NDk5MjcxCWZpbGU6QVNBIFRyYWRpbmcgU3lzdGVtcyBUZXJtaW5hbF8xLjAuNTVfeDY0LXNldHVwLmV4ZQprT2M4S1BmelF4SFBKaFAxT1k0NUlLL29IcnRJdjZQYm1NZG10SFZ5WlFyc3lyR1FWTVZnc3hNRzkzclQ0UUdZQTVyeGVoaHRkOUx2b2lsczZubmVCZz09Cg==",
+                                             "url":  "https://github.com/cjml34483/ASA-releases/releases/download/v1.0.55/ASA.Trading.Systems.Terminal_1.0.55_x64-setup.exe"
                                          }
                   }
 }
