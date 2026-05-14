@@ -1,11 +1,11 @@
 {
-    "version":  "v1.0.56",
-    "notes":  "Dashboard logo light-mode fix; profile avatar tooltip; landing page full marketing rewrite and design overhaul",
-    "pub_date":  "2026-05-12T14:52:25Z",
+    "version":  "v1.0.57",
+    "notes":  "Dashboard UX update with trade history expand, pricing toggle, and PropFirm preset polish.\r\n\r\n### Dashboard\r\n\r\n- **Trade history expand** — ⤢ button in the trade history panel opens a full-screen read-only modal. Supports Ctrl+P for printing. Esc or click-outside to close.\r\n- **Pricing / account section** — monthly/annual toggle with progressive gradient tier cards (Starter → Pro → Scale). \"YOUR PLAN\" badge highlights the current tier. Annual prices show 25% discount (3 months free).\r\n- **PropFirm preset UX** — active preset highlighted in green, \"Clear preset\" / \"Reset to custom\" button, tooltip explaining what the preset applies, key rules displayed per preset.\r\n\r\n### Pricing\r\n\r\n- Annual discount updated to 25% (9 months for 12 = 3 months free). Annual totals: Starter £171, Pro £315, Scale £531.\r\n\r\n---",
+    "pub_date":  "2026-05-14T15:23:35Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDROUFcxZGQ0UWg5L3JPOEszQmEyTHdNa0xZNVhwc2hMVEJ0U3cwMFF6N2U4VWtPckExSUY1NzVIOEdyZWIxNWt1dHRlMlduTUNYbTI4THZLYmw1cERBOGpLY1AwWXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NTk3NTQ0CWZpbGU6QVNBIFRyYWRpbmcgU3lzdGVtcyBUZXJtaW5hbF8xLjAuNTZfeDY0LXNldHVwLmV4ZQpSNVVjTjA5OGltV3p4ckU0UldKMlB5TW9rQWJJNThNM3dCQlB3OUlIZ1luR0E4S0NmUTQwRXFXRzY2MXYzbFQ3NTI5Sm9odnY0QmdnREZUeDZIcWVDZz09Cg==",
-                                             "url":  "https://github.com/cjml34483/ASA-releases/releases/download/v1.0.56/ASA.Trading.Systems.Terminal_1.0.56_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDROUFcxZGQ0UWdOSzBQK0pyVDJ2Q0duVHpLdWh2R04xaEkxZzVtWFZqdEE2R3VVWmR4bGIzT2VNMTBMeGRWamtvd21XN1k1UmU3bkU5MEdnNlUraUFSYWt5eWpIaEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NzcyMjE0CWZpbGU6QVNBIFRyYWRpbmcgU3lzdGVtcyBUZXJtaW5hbF8xLjAuNTdfeDY0LXNldHVwLmV4ZQpJOUFPNmppNFI5QmdCMllKb2FGaUVzT2hMa28rd0Z0KzhoVm81alIrb0dEYkk5cmg5aXd0RVgrSzFjeWxodCszL056QmFTTkkrZUNkWDJMcERkK0dCdz09Cg==",
+                                             "url":  "https://github.com/cjml34483/ASA-releases/releases/download/v1.0.57/ASA.Trading.Systems.Terminal_1.0.57_x64-setup.exe"
                                          }
                   }
 }
